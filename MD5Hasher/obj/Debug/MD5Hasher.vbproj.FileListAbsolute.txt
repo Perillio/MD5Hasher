@@ -1,0 +1,10 @@
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\bin\Debug\MD5Hasher.exe
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\bin\Debug\MD5Hasher.pdb
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\bin\Debug\MD5Hasher.xml
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.vbprojAssemblyReference.cache
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.vbproj.GenerateResource.cache
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.vbproj.CoreCompileInputs.cache
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.exe
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.xml
+C:\Users\Perillio\source\repos\MD5Hasher\MD5Hasher\obj\Debug\MD5Hasher.pdb
